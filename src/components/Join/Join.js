@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Join = () => {
-  return <div>this is join page</div>;
+  return <div className="befr-min-height">this is join page</div>;
 };
 
 export default Join;
