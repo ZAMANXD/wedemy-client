@@ -1,0 +1,15 @@
+.wdmy-min-height{
+    min-height: 75vh;
+}
+.hero-banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), #0F1729), url("./banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top right;
+}
+
+@media screen and (max-width: 992px) {
+    .hero-banner.py-40 {
+        padding: 100px 20px;
+    }
+}

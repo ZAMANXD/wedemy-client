@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ce15628.css",
+    "main.js": "/static/js/main.ccb4db44.js",
+    "static/js/787.ad4b416c.chunk.js": "/static/js/787.ad4b416c.chunk.js",
+    "static/media/banner.jpg": "/static/media/banner.062c9d7e6ddd35868a3e.jpg",
+    "static/media/tcs-dark.svg": "/static/media/tcs-dark.7baac257b6fd9c586729223d4faf2c15.svg",
+    "static/media/eventbrite-dark.svg": "/static/media/eventbrite-dark.333fcf270b8ac9ada0904ca67d4e3748.svg",
+    "static/media/broken.svg": "/static/media/broken.a6f7601ef26ba57f22ff43adda0448cf.svg",
+    "static/media/nasdaq-dark.svg": "/static/media/nasdaq-dark.851232196db5353737792779ff2e2d7e.svg",
+    "static/media/netapp-dark.svg": "/static/media/netapp-dark.fa94feba41041b3a8d275ac645d1bb0f.svg",
+    "static/media/volkswagen-dark.svg": "/static/media/volkswagen-dark.acf3a11365e0977cfd03e5cf3f939107.svg",
+    "static/media/box-dark.svg": "/static/media/box-dark.51e72d73f82eb149957bc4c07e1af330.svg",
+    "index.html": "/index.html",
+    "main.1ce15628.css.map": "/static/css/main.1ce15628.css.map",
+    "main.ccb4db44.js.map": "/static/js/main.ccb4db44.js.map",
+    "787.ad4b416c.chunk.js.map": "/static/js/787.ad4b416c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ce15628.css",
+    "static/js/main.ccb4db44.js"
+  ]
+}

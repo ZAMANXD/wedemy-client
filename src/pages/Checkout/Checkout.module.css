@@ -1,0 +1,11 @@
+@media screen and (max-width: 992px) {
+    td {
+        word-break: break-all !important;
+        word-wrap: break-word !important;
+        white-space: nowrap !important;
+        padding: 0 !important;
+        font-size: 11px;
+        
+    }
+        
+}
