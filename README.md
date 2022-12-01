@@ -18,8 +18,5 @@ A private repository contains source-code for Wedemy project.
     <li>Firebase Authentication</li>
     <li>Daisyui</li>
     <li>react-photo-view</li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>react-toastify</li>
 </ul>
