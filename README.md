@@ -10,7 +10,7 @@ A private repository contains source-code for Wedemy project.
 
 ## Installations and Features
 
-<ol>
+<ul>
     <li>React</li>
     <li>React Router Dom</li>
     <li>Tailwind css v3.2.1</li>
@@ -22,4 +22,4 @@ A private repository contains source-code for Wedemy project.
     <li></li>
     <li></li>
     <li></li>
-</ol>
+</ul>
