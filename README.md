@@ -16,8 +16,8 @@ A private repository contains source-code for Wedemy project.
     <li>Tailwind css v3.2.1</li>
     <li>React Fontawesome v5.15.4</li>
     <li>Firebase Authentication</li>
-    <li></li>
-    <li></li>
+    <li>Daisyui</li>
+    <li>react-photo-view</li>
     <li></li>
     <li></li>
     <li></li>
