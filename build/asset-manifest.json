@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1ce15628.css",
-    "main.js": "/static/js/main.ccb4db44.js",
-    "static/js/787.ad4b416c.chunk.js": "/static/js/787.ad4b416c.chunk.js",
+    "main.js": "/static/js/main.45a8321e.js",
+    "static/js/787.61730479.chunk.js": "/static/js/787.61730479.chunk.js",
     "static/media/banner.jpg": "/static/media/banner.062c9d7e6ddd35868a3e.jpg",
     "static/media/tcs-dark.svg": "/static/media/tcs-dark.7baac257b6fd9c586729223d4faf2c15.svg",
     "static/media/eventbrite-dark.svg": "/static/media/eventbrite-dark.333fcf270b8ac9ada0904ca67d4e3748.svg",
@@ -13,11 +13,11 @@
     "static/media/box-dark.svg": "/static/media/box-dark.51e72d73f82eb149957bc4c07e1af330.svg",
     "index.html": "/index.html",
     "main.1ce15628.css.map": "/static/css/main.1ce15628.css.map",
-    "main.ccb4db44.js.map": "/static/js/main.ccb4db44.js.map",
-    "787.ad4b416c.chunk.js.map": "/static/js/787.ad4b416c.chunk.js.map"
+    "main.45a8321e.js.map": "/static/js/main.45a8321e.js.map",
+    "787.61730479.chunk.js.map": "/static/js/787.61730479.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ce15628.css",
-    "static/js/main.ccb4db44.js"
+    "static/js/main.45a8321e.js"
   ]
 }
